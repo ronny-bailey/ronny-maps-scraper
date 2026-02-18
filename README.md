@@ -1,5 +1,10 @@
 # Google Maps Lead Scraper
 
+![Leads Scraped](https://img.shields.io/badge/leads_scraped-1,917-blue)
+![Emails Sent](https://img.shields.io/badge/emails_sent-1,191-green)
+![Reply Rate](https://img.shields.io/badge/reply_rate-0.9%25-orange)
+![Domain Score](https://img.shields.io/badge/domain_health-9.2%2F10-brightgreen)
+
 Open-source Google Maps scraper for lead generation. Extracts business names, phone numbers, emails, addresses, and websites — then visits each business's website to find contact emails on `/contact`, `/about`, and other pages.
 
 Built with [Playwright](https://playwright.dev/) for reliable browser automation. No API keys required.
